@@ -1,0 +1,32 @@
+*{
+  color: dimgray;
+  background-color: ghostwhite;
+}
+
+#funcInit{
+  color: white;
+  height: 80px;
+  font-weight: bold;
+  width: 80px;
+  border-radius: 50px;
+  background-color: dimgrey;
+}
+
+#funcInit:hover{
+  color: dimgrey;
+  cursor: pointer;
+  background-color: ghostwhite;
+}
+
+a{
+  
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 20px;
+  
+}
