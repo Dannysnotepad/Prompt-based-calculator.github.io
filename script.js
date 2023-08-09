@@ -21,7 +21,7 @@ funcInit.addEventListener("click", (event) => {
     
     let firstNumber = prompt('Enter a number:')
     let operator = prompt('Enter any operator(+,-,/,*):')
-    let secondNumber = prompt('Enter the second number to complete the operation')
+    let secondNumber = prompt(' Enter the second number to complete the operation')
     let result, previous;
     //using switch to check the operator, do operation and display output in html
     switch (operator) {
