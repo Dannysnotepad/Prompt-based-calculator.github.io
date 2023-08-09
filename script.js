@@ -1,6 +1,7 @@
 /*
 **A prompt based calculator
 **From Danny's Notepad🖱️
+**v2.0
 */
 
 //assigning top level variables
